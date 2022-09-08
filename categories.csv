@@ -1,28 +1,29 @@
-﻿Airline - (International Destinations),Airline International ,
-Airline/Airport/Security Fees,Airline/Airport/Security Fees,
-Airline - (Canadian destinations only),Airline Canadian ,
-Airline - (US destinations only),Airline  US,
-Airline -Commercial (Canadian destinations only),Airline Canadian ,
-Airline/Airport/Security Fees -Commercial,Airline International ,
-Airline - Commercial (International Destinations),Airline International ,
-d. Full Day ($100.00) per diem,Meal,
-g. Lunch/Dinner ($59.00) per diem,Meal,
-e. Breakfast/Lunch ($32.00) per diem,Meal,
-d. Full Day ($75.00) per diem,Meal,
-a. Breakfast ($16.00) per diem,Meal,
-f. Breakfast/Dinner ($79.00) per diem,Meal,
-b. Lunch ($16.00) per diem,Meal,
-c. Dinner ($43.00) per diem,Meal,
-c. Dinner ($58.00) per diem,Meal,`
-a. Breakfast ($21.00) per diem,Meal,
-b. Lunch ($21.00) per diem,Meal,
-e. Breakfast/Lunch ($42.00) per diem,Meal,
-g. Lunch/Dinner ($79.00) per diem,Meal,
-f. Breakfast/Dinner ($59.00) per diem,Meal,
-d. Full Day-Commercial ($75.00) per diem,Meal,
-a. Breakfast-Commercial ($16.00) Per Diem,Meal,
-b. Lunch-Commercial ($16.00) per diem,Meal,
-c. Dinner-Commercial ($43.00) per diem,Meal,
-f. Breakfast/Dinner-Commercial ($59.00) per diem,Meal,
-g. Lunch/Dinner-Commercial ($59.00) per diem,Meal,
-e. Breakfast/Lunch-Commercial ($32.00) per diem,Meal,
+﻿1,2
+Airline - (International Destinations),Airline International 
+Airline/Airport/Security Fees,Airline/Airport/Security Fees
+Airline - (Canadian destinations only),Airline Canadian 
+Airline - (US destinations only),Airline  US
+Airline -Commercial (Canadian destinations only),Airline Canadian 
+Airline/Airport/Security Fees -Commercial,Airline International 
+Airline - Commercial (International Destinations),Airline International 
+d. Full Day ($100.00) per diem,Meal
+g. Lunch/Dinner ($59.00) per diem,Meal
+e. Breakfast/Lunch ($32.00) per diem,Meal
+d. Full Day ($75.00) per diem,Meal
+a. Breakfast ($16.00) per diem,Meal
+f. Breakfast/Dinner ($79.00) per diem,Meal
+b. Lunch ($16.00) per diem,Meal
+c. Dinner ($43.00) per diem,Meal
+c. Dinner ($58.00) per diem,Meal
+a. Breakfast ($21.00) per diem,Meal
+b. Lunch ($21.00) per diem,Meal
+e. Breakfast/Lunch ($42.00) per diem,Meal
+g. Lunch/Dinner ($79.00) per diem,Meal
+f. Breakfast/Dinner ($59.00) per diem,Meal
+d. Full Day-Commercial ($75.00) per diem,Meal
+a. Breakfast-Commercial ($16.00) Per Diem,Meal
+b. Lunch-Commercial ($16.00) per diem,Meal
+c. Dinner-Commercial ($43.00) per diem,Meal
+f. Breakfast/Dinner-Commercial ($59.00) per diem,Meal
+g. Lunch/Dinner-Commercial ($59.00) per diem,Meal
+e. Breakfast/Lunch-Commercial ($32.00) per diem,Meal
